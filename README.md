@@ -12,8 +12,6 @@ The processing and other codes available at https://github.com/gitgaviny/IEMOCAP
 
 If you use this dataset, please cite the following paper:
 
-## BibTeX
-
 ```bibtex
 @article{gao2025bridging,
   author  = {Gao, Yuan and Fu, Yahui and Shi, Hao and Chu, Chenhui},
