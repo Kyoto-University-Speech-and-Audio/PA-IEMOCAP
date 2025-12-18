@@ -12,6 +12,9 @@ The processing and other codes available at https://github.com/gitgaviny/IEMOCAP
 
 If you use this dataset, please cite the following paper:
 
+## BibTeX
+
+```bibtex
 @article{gao2025bridging,
   author  = {Gao, Yuan and Fu, Yahui and Shi, Hao and Chu, Chenhui},
   title   = {Bridging Speech Emotion Recognition and Personality: Dataset and Temporal Interaction Condition Network},
@@ -19,4 +22,5 @@ If you use this dataset, please cite the following paper:
   year    = {2025},
   doi     = {10.1109/TAFFC.2025.3637088},
   note    = {Early Access}
+}
 }
