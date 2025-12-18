@@ -23,4 +23,3 @@ If you use this dataset, please cite the following paper:
   doi     = {10.1109/TAFFC.2025.3637088},
   note    = {Early Access}
 }
-}
